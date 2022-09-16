@@ -1,9 +1,3 @@
-//
-//  HelloFriendApp.swift
-//  HelloFriend
-//
-//  Created by Maisa Milena on 15/09/22.
-//
 
 import SwiftUI
 
@@ -11,7 +5,7 @@ import SwiftUI
 struct HelloFriendApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingView()
         }
     }
 }
