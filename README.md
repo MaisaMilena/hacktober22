@@ -10,3 +10,5 @@ missing pieces. Can you help me?
      - light yellow
 - [ ] Create and add icon for the app
 - [ ] Press the button on `OnboardingView` should go to `HomeView`
+- [ ] Messages should not be directly written on code. Enable usage of a 
+`Localizable.strings` file to generate an Enum representing String values. 
