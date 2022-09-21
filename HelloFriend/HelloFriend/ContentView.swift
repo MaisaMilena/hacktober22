@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  HelloFriend
-//
-//  Created by Maisa Milena on 15/09/22.
-//
-
 import SwiftUI
 
 struct ContentView: View {
