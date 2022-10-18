@@ -1,7 +1,6 @@
 # Hello, friend!
 
-Welcome to my Hacktober 2022 project! I started working on this but there are some 
-missing pieces. Can you help me?
+Welcome to my Hacktober 2022 project! It's a simple SwiftUI project with some missing pieces. Can you help me?
 
 - [ ] The app should only be available on portrait mode
 - [ ] Create a Lauchscreen

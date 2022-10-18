@@ -22,7 +22,7 @@ struct OnboardingView: View {
                     .bold()
                     .padding()
                     .foregroundColor(.white)
-                Text("Wish you a happy codding")
+                Text("Wish you a happy coding")
                     .font(.title3)
                     .foregroundColor(.white)
                 
