@@ -11,3 +11,6 @@ Welcome to my Hacktober 2022 project! It's a simple SwiftUI project with some mi
 - [ ] Press the button on `OnboardingView` should go to `HomeView`
 - [ ] Messages should not be directly written on code. Enable usage of a 
 `Localizable.strings` file to generate an Enum representing String values. 
+
+https://user-images.githubusercontent.com/28612369/196323138-01d9ce60-06f2-4d0f-990f-254ad11366fe.mov
+
